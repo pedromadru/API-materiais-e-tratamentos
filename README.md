@@ -25,16 +25,14 @@ Sprint | Previsão | Status| Histórico|
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
->Colocar o vídeo da apresentação
 
-[![SPRINT 1](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
+https://fatecspgov.sharepoint.com/:v:/r/sites/Section_EMA024.A753.N.077.146.20251/Shared%20Documents/General/PSYTECH/Sprint%201.mp4?csf=1&web=1&e=vbQiIN
 
 
 ## Sprint 2
 >Colocar o vídeo da apresentação
 >
-https://fatecspgov.sharepoint.com/:v:/r/sites/Section_EMA024.A753.N.077.146.20251/Shared%20Documents/General/PSYTECH/Sprint%201.mp4?csf=1&web=1&e=vbQiIN
-
+https://fatecspgov.sharepoint.com/:v:/r/sites/Section_EMA024.A753.N.077.146.20251/Shared%20Documents/General/PSYTECH/Sprint%202.mp4?csf=1&web=1&e=UrRs16
 
 ## Sprint 3
 >Colocar o vídeo da apresentação
