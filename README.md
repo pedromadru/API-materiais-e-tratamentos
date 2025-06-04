@@ -25,9 +25,9 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | dd/mm/aaaa | concluido| [Ver Relatório](file:///C:/Users/Fatec/Desktop/SPRINT%201%202025.pdf)
-|01 | 15/04/2025 | concluido| [Ver Relatório] (https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|01 | 15/04/2025 | concluido| [Ver Relatório]  https://fatecspgov-my.sharepoint.com/:b:/r/personal/pedro_prado8_fatec_sp_gov_br/Documents/SPRINT%201%202025.pdf?csf=1&web=1&e=rX7EqU
 |02|13/05/2025| em progresso |[Ver Relatório] (https://www.canva.com/design/DAGnXL-bSFM/8viWsiYRn2tla155C94kyg/edit?utm_content=DAGnXL-bSFM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-|03| 02/06/2025 | a fazer|[Ver Relatório] (file:///C:/Users/Fatec/Desktop/SPRINT%201%202025.pdf)
+|03| 02/06/2025 | a fazer|[Ver Relatório] https://fatecspgov-my.sharepoint.com/:w:/r/personal/pedro_prado8_fatec_sp_gov_br/Documents/Sprint%203.docx?d=w67fc2eded0f241dda169ccd143f29415&csf=1&web=1&e=wm4fdH
 |04| dd//aaaa |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) |
 |Feira de Soluções|dd/mm/aaaa |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
