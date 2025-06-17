@@ -46,11 +46,8 @@ https://fatecspgov.sharepoint.com/:v:/r/sites/Section_EMA024.A753.N.077.146.2025
 [![SPRINT 4](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
 
 
-## Apresentação final (se necessario)
-Vídeo com a apresentação final da API do "semestre/ano"
->Colocar o vídeo da apresentação
-
-[![feira](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
+## Apresentação final
+https://www.canva.com/design/DAGqp1XNVHs/oPktvjKi7iwuAQjVIjFyVQ/edit
 
 
 # Autores
