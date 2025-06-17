@@ -15,7 +15,8 @@ Sprint | Previsão | Status| Histórico|
 |02|13/05/2025| concluido |[Ver Relatório] (https://www.canva.com/design/DAGnXL-bSFM/8viWsiYRn2tla155C94kyg/edit?utm_content=DAGnXL-bSFM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 |03| 02/06/2025 |concluido|[Ver Relatório] https://fatecspgov-my.sharepoint.com/:w:/r/personal/pedro_prado8_fatec_sp_gov_br/Documents/Sprint%203.docx?d=w67fc2eded0f241dda169ccd143f29415&csf=1&web=1&e=wm4fdH
 |04| dd//aaaa |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) |
-|Feira de Soluções|dd/mm/aaaa |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|Feira de Soluções|dd/mm/aaaa 
+https://www.canva.com/design/DAGqp1XNVHs/oPktvjKi7iwuAQjVIjFyVQ/edit
 
 > Possíveis status: a fazer, em progresso e concluido
 
